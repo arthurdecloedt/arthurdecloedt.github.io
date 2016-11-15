@@ -6,4 +6,4 @@ layout: layout2
 
 this is the second page
 
-there is even a [third page](extra.page3)
+there is even a [third page](/extra.page3)
