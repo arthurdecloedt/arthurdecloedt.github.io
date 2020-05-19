@@ -9,4 +9,4 @@ Plotly graphs:
 
 [Matrix Scatterplot XGB Hyperparameter Optimization](matrix.html)
 
-[Parallel Coordinate Plot XGB Hyperparameter Optimization](xgb_hp_parcoor (1).html)
+[Parallel Coordinate Plot XGB Hyperparameter Optimization](xgb_hp_parcoor.html)
