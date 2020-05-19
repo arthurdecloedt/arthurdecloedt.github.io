@@ -1,9 +1,12 @@
 ---
-layout: layout2
+layout: layout1
 ---
 
 
-# Arthur's site
-hello world
+# Arthur's utils
 
-a second [page](file2) exists
+Plotly graphs:
+
+[Matrix Scatterplot XGB Hyperparameter Optimization](plot1.html)
+
+
