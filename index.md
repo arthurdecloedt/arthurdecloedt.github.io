@@ -7,6 +7,6 @@ layout: layout1
 
 Plotly graphs:
 
-[Matrix Scatterplot XGB Hyperparameter Optimization](plot1.html)
+[Matrix Scatterplot XGB Hyperparameter Optimization](matrix.html)
 
 
